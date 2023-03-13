@@ -1,7 +1,7 @@
 # Implementing-database
 
 
-The purpose of the Project is to analyse and find out the best Data-base Management Softwares thatthe university of Buffalo
+The purpose of the Project is to analyse and find out the best Data-base Management Softwares that the university of Buffalo
 can Implement. 
 
 Starting with the Analysis we have to address the Problem statement.
